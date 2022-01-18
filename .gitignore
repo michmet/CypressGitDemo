@@ -1,2 +1,4 @@
 
 cypress/videos/actions.spec.js.mp4
+
+*.png
